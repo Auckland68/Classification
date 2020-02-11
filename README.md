@@ -1,2 +1,2 @@
 # Sample-Projects for Logistic Regression
-Exploring machine learning models
+Sample projects using Linear Regression
