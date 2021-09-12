@@ -1,2 +1,2 @@
-# Sample-Projects for Logistic Regression
-Sample projects using Linear Regression
+# Sample-Projects for Classification Models
+Sample projects using different classification models
