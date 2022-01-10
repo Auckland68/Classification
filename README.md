@@ -1,5 +1,5 @@
 # Sample-Projects for Classification Models
-Sample projects using different classification models including Logistic Regression, Decision Trees, Ensemble Learning:
+Sample projects using different classification models including Logistic Regression, Decision Trees, Ensemble Learning, KNearest Neighbours, Support Vector Machines and Naive Bayes:
 
 * Facebook marketing data classification
 * Logistic regression models with various datasets including insurance payments, employee retention, handwritten digits, iris dataset
