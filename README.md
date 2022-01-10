@@ -7,3 +7,4 @@ Sample projects using different classification models:
 * Liver disease prediction
 * Credit risk classification
 * Fraud detection
+* Multiple projects notebook - this notebook contains mixed techniques. See projects 3 to 5 including Gender Voice classification, German credit score customer classification, BBC article classication (multi-class classification)
