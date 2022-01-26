@@ -13,6 +13,6 @@ Sample projects using different classification models including Logistic Regress
 *  - BBC article classication (multi-class classification)
 * Multiple projects notebook 2 - this notebook contains mixed ML techniques. Scroll to see project 2
 *  - PIMA indians diabetes classification with logistic regression and decision trees
-*  - PIMa indians diabetes classification with Ensemble Learning (hard and soft voting)
+*  - PIMA indians diabetes classification with Ensemble Learning (hard and soft voting)
 *  Simple Classification Using Neural Network and Pytorch - Iris Dataset
 * Titanic and MNIST handwritten digits classifications
