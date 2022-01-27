@@ -15,5 +15,5 @@ Sample projects using different classification models including Logistic Regress
 *  - PIMA indians diabetes classification with logistic regression and decision trees
 *  - PIMA indians diabetes classification with Ensemble Learning (hard and soft voting)
 *  New York Taxi Fare Class Classification using NN with PYTORCH
-*  Iris Dataset - simple Classification Using Neural Network and Pytorch 
+*  Iris Dataset - simple Classification Using Neural Network and PYTORCH
 * Titanic and MNIST handwritten digits classifications
