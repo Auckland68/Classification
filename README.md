@@ -1,5 +1,5 @@
 # Sample-Projects for Classification Models
-Sample projects using different classification models including Logistic Regression, Decision Trees, Ensemble Learning, KNearest Neighbours, Support Vector Machines and Naive Bayes:
+Sample projects using different classification models including Logistic Regression, Decision Trees, Ensemble Learning, KNearest Neighbours, Support Vector Machines and Naive Bayes as well as neural network and deep learning models with Keras and Pytorch:
 
 *  Census Income classification using NN with PYTORCH
 *  Credit risk classification
