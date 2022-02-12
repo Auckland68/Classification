@@ -1,6 +1,7 @@
 # Sample-Projects for Classification Models
 Sample projects using different classification models including Logistic Regression, Decision Trees, Ensemble Learning, KNearest Neighbours, Support Vector Machines and Naive Bayes as well as neural network and deep learning models with Keras and Pytorch:
 
+*  CIFAR 10 Dataset prediction of images using TorchVision
 *  Census Income classification using NN with PYTORCH
 *  Credit risk classification
 * Ensemble Models for Classification - this notebook contains both regression and classification models. Scroll to view the bank credit card dataset which uses ensemble classifiers including hard and soft voting - Bank loan dataset (classification)
