@@ -12,7 +12,7 @@ Sample projects using different classification models including Logistic Regress
 *  - Gender Voice classification, 
 *  - German credit score customer classification, 
 *  - BBC article classication (multi-class classification)
-* Multiple projects notebook 2 - this notebook contains mixed ML techniques. Scroll notebook to see project 2
+*  - Multiple projects notebook 2 - this notebook contains mixed ML techniques. Scroll notebook to see project 2
 *  - PIMA indians diabetes classification with logistic regression and decision trees
 *  - PIMA indians diabetes classification with Ensemble Learning (hard and soft voting)
 *  New York Taxi Fare Class Classification using NN with PYTORCH
