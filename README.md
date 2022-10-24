@@ -6,6 +6,7 @@ Sample projects using different classification models including Logistic Regress
 * Ensemble Models for Classification - this notebook contains both regression and classification models. Scroll to view the bank credit card dataset which uses ensemble classifiers including hard and soft voting - Bank loan dataset (classification)
 * Facebook marketing data classification
 * Fraud detection
+* Graduate admissions prediction with PYTORCH
 * Liver disease prediction
 * Logistic regression models with various datasets including insurance payments, employee retention, handwritten digits, iris dataset
 * Multiple projects notebook - this notebook contains mixed ML techniques. Scroll notebook to see projects 3 to 5:
