@@ -9,6 +9,7 @@ Sample projects using different classification models including Logistic Regress
 * Graduate admissions prediction with PYTORCH
 * Liver disease prediction
 * Logistic regression models with various datasets including insurance payments, employee retention, handwritten digits, iris dataset
+* Multi-class classification (Iris Dataset) with PYTORCH
 * Multiple projects notebook - this notebook contains mixed ML techniques. Scroll notebook to see projects 3 to 5:
 - Gender Voice classification, 
 - German credit score customer classification, 
